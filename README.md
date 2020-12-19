@@ -1,2 +1,2 @@
 # flappy-bird
-A remake of flappy bird game where play fly the bird as far as you can without hitting a pipe.
+A remake of flappy bird game where player flies the bird as far as you can without hitting a pipe.
